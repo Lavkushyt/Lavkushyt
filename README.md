@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./github-banner.png" width="100%" alt="Lavkush GitHub Banner"/>
-</p>
+![Lavkush GitHub Banner](./github-banner.png)
 <h1 align="center">Hi 👋, I'm Lavkush</h1>
 <h3 align="center">IT Support Engineer | Junior System Administrator | Networking Enthusiast</h3>
 
